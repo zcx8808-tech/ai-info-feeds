@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Simon Willison · X</title>
+    <link>https://x.com/simonw</link>
+    <description>公开帖短摘录；完整内容请查看原文。</description>
+    <item>
+      <title>I'm at OpenAI's DevDay event in San Francisco today - as I have for the past three DevDay events, I'</title>
+      <link>https://x.com/simonw/status/2104978193946124370</link>
+      <guid isPermaLink="true">https://x.com/simonw/status/2104978193946124370</guid>
+      <description>来自 Simon Willison，点击原文查看。</description>
+      <author>Simon Willison</author>
+      <pubDate>Wed, 30 Sep 2026 00:54:44 +0800</pubDate>
+    </item>
+    <item>
+      <title>The most important thing about Sonnet 5.5 is that it's now the model that powers the free tier on ht</title>
+      <link>https://x.com/simonw/status/2104682232522944909</link>
+      <guid isPermaLink="true">https://x.com/simonw/status/2104682232522944909</guid>
+      <description>来自 Simon Willison，点击原文查看。</description>
+      <author>Simon Willison</author>
+      <pubDate>Tue, 29 Sep 2026 05:18:41 +0800</pubDate>
+    </item>
+    <item>
+      <title>I've published detailed notes and an annotated transcript to accompany the video of the keynote I ga</title>
+      <link>https://x.com/simonw/status/2104630129528037415</link>
+      <guid isPermaLink="true">https://x.com/simonw/status/2104630129528037415</guid>
+      <description>来自 Simon Willison，点击原文查看。</description>
+      <author>Simon Willison</author>
+      <pubDate>Tue, 29 Sep 2026 01:51:39 +0800</pubDate>
+    </item>
+    <item>
+      <title>I included a few references to this year's record-breaking Kākāpō breeding season in a talk I gave y</title>
+      <link>https://x.com/simonw/status/2104002636513206422</link>
+      <guid isPermaLink="true">https://x.com/simonw/status/2104002636513206422</guid>
+      <description>来自 Simon Willison，点击原文查看。</description>
+      <author>Simon Willison</author>
+      <pubDate>Sun, 27 Sep 2026 08:18:13 +0800</pubDate>
+    </item>
+    <item>
+      <title>"The last year in the technology industry has felt like 100 years all happening at once. Our industr</title>
+      <link>https://x.com/simonw/status/2103688757337895282</link>
+      <guid isPermaLink="true">https://x.com/simonw/status/2103688757337895282</guid>
+      <description>来自 Simon Willison，点击原文查看。</description>
+      <author>Simon Willison</author>
+      <pubDate>Sat, 26 Sep 2026 11:30:59 +0800</pubDate>
+    </item>
+    <item>
+      <title>I'm on stage for the keynote in ten minutes time!</title>
+      <link>https://x.com/simonw/status/2103641180923978031</link>
+      <guid isPermaLink="true">https://x.com/simonw/status/2103641180923978031</guid>
+      <description>来自 Simon Willison，点击原文查看。</description>
+      <author>Simon Willison</author>
+      <pubDate>Sat, 26 Sep 2026 08:21:55 +0800</pubDate>
+    </item>
+    <item>
+      <title>RT Hillel: Re @simonw "It doesn't get easier, you just get faster"</title>
+      <link>https://x.com/simonw/status/2103495582048555120</link>
+      <guid isPermaLink="true">https://x.com/simonw/status/2103495582048555120</guid>
+      <description>来自 Simon Willison，点击原文查看。</description>
+      <author>Simon Willison</author>
+      <pubDate>Fri, 25 Sep 2026 21:52:31 +0800</pubDate>
+    </item>
+    <item>
+      <title>The more time I spend working with coding agents, the more convinced I am that they make software en</title>
+      <link>https://x.com/simonw/status/2103288927805476900</link>
+      <guid isPermaLink="true">https://x.com/simonw/status/2103288927805476900</guid>
+      <description>来自 Simon Willison，点击原文查看。</description>
+      <author>Simon Willison</author>
+      <pubDate>Fri, 25 Sep 2026 09:02:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>RT Riley Goodside: &gt; Create a 30s animated video with sythesized voice where an animated pelican on</title>
+      <link>https://x.com/simonw/status/2103264194158338480</link>
+      <guid isPermaLink="true">https://x.com/simonw/status/2103264194158338480</guid>
+      <description>来自 Simon Willison，点击原文查看。</description>
+      <author>Simon Willison</author>
+      <pubDate>Thu, 24 Sep 2026 23:48:16 +0800</pubDate>
+    </item>
+    <item>
+      <title>I just had a voice conversation with the Datasette backup of my blog via datasette-mcp, which you ca</title>
+      <link>https://x.com/simonw/status/2102916558712705427</link>
+      <guid isPermaLink="true">https://x.com/simonw/status/2102916558712705427</guid>
+      <description>来自 Simon Willison，点击原文查看。</description>
+      <author>Simon Willison</author>
+      <pubDate>Thu, 24 Sep 2026 08:22:32 +0800</pubDate>
+    </item>
+    <item>
+      <title>The new Gemini 3.8 TTS models are super-cheap and can generate conversations between multiple voices</title>
+      <link>https://x.com/simonw/status/2102861892549279922</link>
+      <guid isPermaLink="true">https://x.com/simonw/status/2102861892549279922</guid>
+      <description>来自 Simon Willison，点击原文查看。</description>
+      <author>Simon Willison</author>
+      <pubDate>Thu, 24 Sep 2026 04:45:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>Big model release today - I wrote about Claude Opus 5.5, GPT-6 Sol, and GPT-6 Luna - plus comparison</title>
+      <link>https://x.com/simonw/status/2102546103984079131</link>
+      <guid isPermaLink="true">https://x.com/simonw/status/2102546103984079131</guid>
+      <description>来自 Simon Willison，点击原文查看。</description>
+      <author>Simon Willison</author>
+      <pubDate>Wed, 23 Sep 2026 07:50:29 +0800</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 Luna is half the price of 5.6 Luna, which was already an astonishingly cheap model given how c</title>
+      <link>https://x.com/simonw/status/2102490016752779458</link>
+      <guid isPermaLink="true">https://x.com/simonw/status/2102490016752779458</guid>
+      <description>来自 Simon Willison，点击原文查看。</description>
+      <author>Simon Willison</author>
+      <pubDate>Wed, 23 Sep 2026 04:07:37 +0800</pubDate>
+    </item>
+    <item>
+      <title>RT Addy Osmani: Introducing Claude Opus 5.5! 40% lower cost than Opus 5 with cache reads 60% cheaper</title>
+      <link>https://x.com/simonw/status/2102620548262195540</link>
+      <guid isPermaLink="true">https://x.com/simonw/status/2102620548262195540</guid>
+      <description>来自 Simon Willison，点击原文查看。</description>
+      <author>Simon Willison</author>
+      <pubDate>Wed, 23 Sep 2026 00:34:37 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
